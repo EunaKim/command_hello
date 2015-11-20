@@ -1,2 +1,3 @@
 println("Hello World")
-pringln("Hello!")
+println("Hello!")
+println("Hello Git!")
